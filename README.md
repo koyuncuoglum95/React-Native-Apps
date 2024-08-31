@@ -4,6 +4,6 @@ React Native Number Guess App
 
 1.) Used React Native Technology
 
-2.) Guess the number till it is correct
+2.) Made the app with expo
 
-3.) Have fun :)
+3.) Guess the number till it's correct
