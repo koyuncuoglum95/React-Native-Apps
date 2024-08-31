@@ -2,4 +2,8 @@
 
 React Native Number Guess App
 
-https://expo.dev/@koyuncuoglum95/number?serviceType=classic&distribution=expo-go
+1.) Used React Native Technology
+
+2.) Guess the number till it is correct
+
+3.) Have fun :)
